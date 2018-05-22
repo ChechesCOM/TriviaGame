@@ -1,17 +1,17 @@
 body{
 	font-size: 20px;
 	font-family: 'Work Sans', sans-serif;
-	color: #333;
+	color:  rgb(14, 51, 14);
   font-weight: 300;
   text-align: center;
-  background-color: #f8f6f0;
+  background-color: rgb(158, 141, 141);
 }
 h1{
   font-weight: 300;
   margin: 0px;
   padding: 10px;
   font-size: 20px;
-  background-color: #444;
+  background-color:  rgb(14, 51, 14);
   color: #fff;
 }
 .question{
@@ -30,7 +30,7 @@ h1{
 button{
   font-family: 'Work Sans', sans-serif;
 	font-size: 22px;
-	background-color: #279;
+	background-color: rgb(14, 51, 14);
 	color: #fff;
 	border: 0px;
 	border-radius: 3px;
@@ -41,10 +41,6 @@ button{
 button:hover{
 	background-color: #38a;
 }
-
-
-
-
 
 .slide{
   position: absolute;
